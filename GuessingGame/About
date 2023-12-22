@@ -1,0 +1,3 @@
+A minigame that asks the user to guess correctly 1 of 5 numbers. 
+The numbers are all random within a chosen range. 
+This minigame also keeps track of guesses made, games played, and average guesses per game.
