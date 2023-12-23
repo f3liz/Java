@@ -1,0 +1,2 @@
+Uses ACM.graphics to draw a snowman with random RGB colors to fill body color.
+Also has snowflakes falling at random speeds.
