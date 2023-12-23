@@ -1,0 +1,2 @@
+Receives calorie input from the user that will add up the amount of calories in eat meal over the period of two days.
+Will return calorie total for each day and average calories for both days.
