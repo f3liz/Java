@@ -1,0 +1,2 @@
+Uses ACM.graphics to load a png of a cow and combined with key events to move cow to haystacks to eat.
+Wins the game once all haystacks are eaten.
